@@ -3,4 +3,4 @@ Example repository for the course "Bioinformatik für Tier- und Pflanzenwissensc
 
 Adding some example text
 
-It's me! Not a student?
+Hallo!  I am following the lectures on YouTube (August 2022).
